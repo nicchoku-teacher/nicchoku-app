@@ -1,10 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import NicchokuApp from './NicchokuApp'
-import './index.css'
+import App from './App.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <NicchokuApp />
-  </React.StrictMode>,
+    <App />
+  </React.StrictMode>
 )
