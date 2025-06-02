@@ -1,0 +1,1 @@
+// NicchokuApp component placeholder
